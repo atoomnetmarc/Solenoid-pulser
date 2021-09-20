@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date ""
+Date "2021-09-20"
 Rev ""
 Comp ""
 Comment1 ""
@@ -697,17 +697,6 @@ F 1 "MountingHole" H 1100 7555 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1000 7600 50  0001 C CNN
 F 3 "~" H 1000 7600 50  0001 C CNN
 	1    1000 7600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Graphic:Logo_Open_Hardware_Small LOGO1
-U 1 1 6116083E
-P 7250 6850
-F 0 "LOGO1" H 7497 6875 50  0000 L CNN
-F 1 "Logo_Open_Hardware_Small" H 7250 6625 50  0001 C CNN
-F 2 "Symbol:OSHW-Symbol_6.7x6mm_Copper" H 7250 6850 50  0001 C CNN
-F 3 "~" H 7250 6850 50  0001 C CNN
-	1    7250 6850
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
