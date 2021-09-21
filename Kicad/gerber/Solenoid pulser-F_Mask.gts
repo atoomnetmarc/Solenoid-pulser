@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
-%TF.CreationDate,2021-08-06T17:42:55+02:00*%
-%TF.ProjectId,Solenoid pulser,536f6c65-6e6f-4696-9420-70756c736572,V1.0*%
-%TF.SameCoordinates,Original*%
-%TF.FileFunction,Soldermask,Top*%
-%TF.FilePolarity,Negative*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.10)-1*
+G04 #@! TF.CreationDate,2021-09-21T19:58:19+02:00*
+G04 #@! TF.ProjectId,Solenoid pulser,536f6c65-6e6f-4696-9420-70756c736572,V1.0*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Soldermask,Top*
+G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-08-06 17:42:55*
+G04 Created by KiCad (PCBNEW (5.1.10)-1) date 2021-09-21 19:58:19*
 %MOMM*%
 %LPD*%
 G01*
